@@ -6,7 +6,7 @@
         {
             "label": "LABEL",
             "type": "shell",
-            "command": "gcc -Wall -Werror -Wextra"
+            "command": "gcc"
             "args": [
                 "-Wall", "-Werror", "-Wextra"
             ],
